@@ -33,9 +33,10 @@
 
    <div class="section">
         <h2>📐 Data Modeling Process</h2>
-        <p><b>The Fact Table (Sales)</b> serves as the central hub, containing transactional data. It connects to Dimension Tables (Customers, Products, and Regions) via a star schema, facilitating seamless filtering and analysis by time, geography, and product category.</p>
-        <p><b>A Calendar Table</b> was created to facilitate time-based analysis. It includes fields such as Day, Month, Month Number, Quarter, and Year, enhancing the ability to track trends over specific periods.</p>
-        <p><b>DAX Measures</b> such as Total Sales, Profit Margin, and YOY Growth were developed to provide actionable insights and performance tracking.</p>
+       <img src="Model.png" alt="Model">
+        <p><li><b>The Fact Table (Sales)</b> serves as the central hub, containing transactional data. It connects to Dimension Tables (Customers, Products, and Regions) via a star schema, facilitating seamless filtering and analysis by time, geography, and product category.</li></p>
+        <p><li><b>A Calendar Table</b> was created to facilitate time-based analysis. It includes fields such as Day, Month, Month Number, Quarter, and Year, enhancing the ability to track trends over specific periods.</li></p>
+        <p><li><b>DAX Measures</b> such as Total Sales, Profit Margin, and YOY Growth were developed to provide actionable insights and performance tracking.</li></p>
     </div>
 
   <div class="section">
