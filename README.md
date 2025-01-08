@@ -4,7 +4,6 @@
     <h1>📊 Sales Analytics Dashboard</h1>
 
    <div class="section">
-        <h2>📄 Description</h2>
         <p>This project focuses on analyzing sales performance data for a fictional superstore to uncover actionable insights. By leveraging data cleaning, visualization, and modeling techniques, the project provides a detailed examination of the store's operations, products, and customers. The insights aim to help decision-makers optimize product portfolios, improve regional sales strategies, and enhance customer retention.</p>
         <p>The analysis was conducted using tools such as Power BI for creating interactive dashboards. The final deliverables include three dynamic dashboards that summarize key findings.</p>
     </div>
