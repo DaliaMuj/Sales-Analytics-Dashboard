@@ -21,7 +21,7 @@
     </div>
 
   <div class="section">
-        <h2>🧹 Data Cleaning Process</h2>
+        <h2>⚙️ Data Cleaning Process</h2>
         <ul>
             <li><b>Removed Duplicated Values:</b> Identified and eliminated duplicate records to maintain data integrity.</li>
             <li><b>Formatted Columns:</b> Standardized and formatted columns to the correct data types (e.g., dates, numbers, text) to ensure consistency and usability.</li>
